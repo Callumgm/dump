@@ -25,22 +25,20 @@ Note that I haven't used the *tcp://* part of the domain name and neither the *:
 
 
 ## Creating client payload
-
-IP = ngrok server IP
-
-Port = ngrok server Port
-
+```
+IP = ngrok IP
+Port = ngrok Port
+```
 **Notice the port number that I have used.** Yes you read it right. It will **not be** 12000, instead it will be the port number on which **ngrok is listening which is 19171** as it is evident from the image [above](#port-forwarding-using-ngrok).
 
 
 
 
 ## Creating the server
-
+```
 IP = 127.0.0.1
-
 port = 12000
-
+```
 Make sure to keep the port number same as the one you had used while running *ngrok* command [previously](#port-forwarding-using-ngrok).
 
 
