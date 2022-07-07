@@ -8,6 +8,7 @@
                                             
 					╔═══════════════════════════════════════════════╗
 					║   CookiesKush420#9599 | cookiesservices.xyz   ║
-					║		 type "help" for more info           ║
+					║          Type [help] to view commands         ║
 					╚═══════════════════════════════════════════════╝
+		
 		
