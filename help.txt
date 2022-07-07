@@ -26,6 +26,7 @@
           ║     ping                ║     Ping all bots           ║
           ║     sysinfo             ║     Grab system info        ║
           ║     list                ║     List online bots        ║
+          ║     clear               ║     Clear console           ║
           ║     update              ║     Update client list      ║
           ║     datagrabber         ║     Grab all browser info   ║
           ║     admincheck          ║     Check admin privileges  ║
