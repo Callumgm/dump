@@ -32,4 +32,16 @@
           ║     admincheck          ║     Check admin privileges  ║
           ║     exit or quit        ║     Exit server             ║
           ╚═══════════════════════════════════════════════════════╝
+	  
+	  
+	  
+	  
+                                ╔═════════════════════╗
+                                ║       METHODS       ║
+          ╔═════════════════════╩═════════════════════╩════════════════════╗
+          ║    cfb             ║   Bypass CF Attack                        ║
+          ║    pxcfb           ║   Bypass CF Attack With Proxy             ║
+          ║    cfreq           ║   Bypass CF UAM, CAPTCHA, BFM (request)   ║
+          ║    cfsoc           ║   Bypass CF UAM, CAPTCHA, BFM (socket)    ║
+          ╚════════════════════════════════════════════════════════════════╝
 		
