@@ -39,14 +39,14 @@
                                                 ╔═════════════════════╗
                                                 ║         I.P         ║
                           ╔═════════════════════╩═════════════════════╩════════════════════╗
-			  ║    tcp             ║   UDP Attack                              ║
+                          ║    tcp             ║   UDP Attack                              ║
                           ║    udp             ║   TCP Attack                              ║
                           ╚════════════════════════════════════════════════════════════════╝
                           
                                                 ╔═════════════════════╗
                                                 ║       WEBSITE       ║
                           ╔═════════════════════╩═════════════════════╩════════════════════╗
-			  ║    cfb             ║   Bypass CF Attack                        ║
+                          ║    cfb             ║   Bypass CF Attack                        ║
                           ║    pxcfb           ║   Bypass CF Attack With Proxy             ║
                           ║    cfreq           ║   Bypass CF UAM, CAPTCHA, BFM (request)   ║
                           ║    cfsoc           ║   Bypass CF UAM, CAPTCHA, BFM (socket)    ║
