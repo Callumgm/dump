@@ -19,14 +19,13 @@
           ║     disabletaskmanager                         ║     Disable taskmanager                       ║
           ║     tokens                                     ║     Grab all stored discord tokens            ║
           ║     selfdestruct                               ║     Remove all traces of the BotNet           ║
-	  ║     ping                                       ║     Ping all bots                             ║
-	  ║     sysinfo                                    ║     Grab system info                          ║
-	  ║     list                                       ║     List online bots                          ║
-	  ║     clear                                      ║     Clear console                             ║
-	  ║     update                                     ║     Update client list                        ║
-	  ║     datagrabber                                ║     Grab all browser info                     ║
-	  ║     admincheck                                 ║     Check admin privileges                    ║
-	  ║     exit or quit                               ║     Exit server                               ║
+          ║     ping                                       ║     Ping all bots                             ║
+          ║     sysinfo                                    ║     Grab system info                          ║
+          ║     list                                       ║     List online bots                          ║
+          ║     clear                                      ║     Clear console                             ║
+          ║     update                                     ║     Update client list                        ║
+          ║     admincheck                                 ║     Check admin privileges                    ║
+          ║     exit or quit                               ║     Exit server                               ║
           ╚════════════════════════════════════════════════════════════════════════════════════════════════╝
 
 
