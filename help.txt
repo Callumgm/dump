@@ -1,38 +1,36 @@
 
-                                                ╔═════════════════════╗
-                                                ║       COMMAND       ║
-          ╔═════════════════════════════════════╩═════════════════════╩════════════════════════════════════╗
+                                          ╔═════════════════════════════════╗
+                                          ║             COMMAND             ║
+          ╔═══════════════════════════════╩═════════════════════════════════╩══════════════════════════════╗
           ║     attack <method> <ip> <port> <t> <thread>   ║     attack udp 127.0.0.1 80 60 100            ║
           ║     pscan <ip> <startport> <endport> <thread>  ║     pscan bot 127.0.0.1 1 100 100             ║
           ║     ddos <method> <url> <thread> <t>           ║     ddos cfb https://google.com 10 5          ║
           ║     ransom <price> <email> <btc>               ║     ransom $100 mail@mail.com BTC             ║
-          ║     nitrogen <amount>                          ║     nitrogen 100                              ║
           ║     infectclipboard <url>                      ║     Admin privileges required                 ║
-          ║     stopinfectclipboard                        ║     Admin privileges required                 ║  
-          ║     updatepayload <url>                        ║     Admin privileges required                 ║
+          ║     updatepayload <url>                        ║     Admin privileges required                 ║	  
           ║     webcam <ip> <port>                         ║     Stream webcam footage                     ║
-          ║     kill                                       ║     Stop client from listening                ║
+          ║     nitrogen <amount>                          ║     nitrogen 100                              ║
           ║     shell <command>                            ║     Run shell commands                        ║
+          ║     stopinfectclipboard                        ║     Admin privileges required                 ║  
+          ║     kill                                       ║     Stop client from listening                ║
           ║     persistence                                ║     Set persistence                           ║
           ║     disablefirewall                            ║     Disable firewall                          ║
           ║     disableantivirus                           ║     Disable antivirus                         ║
           ║     disabletaskmanager                         ║     Disable taskmanager                       ║
           ║     tokens                                     ║     Grab all stored discord tokens            ║
           ║     selfdestruct                               ║     Remove all traces of the BotNet           ║
+	  ║     ping                                       ║     Ping all bots                             ║
+	  ║     sysinfo                                    ║     Grab system info                          ║
+	  ║     list                                       ║     List online bots                          ║
+	  ║     clear                                      ║     Clear console                             ║
+	  ║     update                                     ║     Update client list                        ║
+	  ║     datagrabber                                ║     Grab all browser info                     ║
+	  ║     admincheck                                 ║     Check admin privileges                    ║
+	  ║     exit or quit                               ║     Exit server                               ║
           ╚════════════════════════════════════════════════════════════════════════════════════════════════╝
-          
-          
-	  
-                                 ╔═══════════════════════════════════════════════════════╗
-                                 ║     ping                ║     Ping all bots           ║
-                                 ║     sysinfo             ║     Grab system info        ║
-                                 ║     list                ║     List online bots        ║
-                                 ║     clear               ║     Clear console           ║
-                                 ║     update              ║     Update client list      ║
-                                 ║     datagrabber         ║     Grab all browser info   ║
-                                 ║     admincheck          ║     Check admin privileges  ║
-                                 ║     exit or quit        ║     Exit server             ║
-                                 ╚═══════════════════════════════════════════════════════╝
+
+
+
 	  
 	  
 	  
