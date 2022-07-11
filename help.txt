@@ -9,7 +9,6 @@
           ║     infectclipboard <url>                      ║     Admin privileges required                 ║
           ║     updatepayload <url>                        ║     Admin privileges required                 ║	  
           ║     webcam <ip> <port>                         ║     Stream webcam footage                     ║
-          ║     nitrogen <amount>                          ║     nitrogen 100                              ║
           ║     shell <command>                            ║     Run shell commands                        ║
           ║     stopinfectclipboard                        ║     Admin privileges required                 ║  
           ║     kill                                       ║     Stop client from listening                ║
@@ -17,7 +16,7 @@
           ║     disablefirewall                            ║     Disable firewall                          ║
           ║     disableantivirus                           ║     Disable antivirus                         ║
           ║     disabletaskmanager                         ║     Disable taskmanager                       ║
-          ║     tokens                                     ║     Grab all stored discord tokens            ║
+          ║     datagrabber                                ║     Grab all brower user, pass, cookies       ║
           ║     selfdestruct                               ║     Remove all traces of the BotNet           ║
           ║     ping                                       ║     Ping all bots                             ║
           ║     sysinfo                                    ║     Grab system info                          ║
@@ -25,7 +24,7 @@
           ║     clear                                      ║     Clear console                             ║
           ║     update                                     ║     Update client list                        ║
           ║     admincheck                                 ║     Check admin privileges                    ║
-          ║     exit or quit                               ║     Exit server                               ║
+          ║     exit or quit                               ║     Exit server and leave clients listening   ║
           ╚════════════════════════════════════════════════════════════════════════════════════════════════╝
 
 
