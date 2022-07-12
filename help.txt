@@ -10,6 +10,7 @@
           ║     updatepayload <url>                        ║     Admin privileges required                 ║	  
           ║     webcam <ip> <port>                         ║     Stream webcam footage                     ║
           ║     shell <command>                            ║     Run shell commands                        ║
+          ║     whois <ip>                                 ║     Get info on IP Address                    ║
           ║     stopinfectclipboard                        ║     Admin privileges required                 ║  
           ║     kill                                       ║     Stop client from listening                ║
           ║     persistence                                ║     Set persistence                           ║
