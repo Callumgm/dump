@@ -13,7 +13,6 @@
           ║     clear                                      ║     Clear console                             ║
           ║     update                                     ║     Update client list                        ║
           ║     admincheck                                 ║     Check admin privileges                    ║
-          ║     exit or quit                               ║     Exit server and leave clients listening   ║
           ╚════════════════════════════════════════════════════════════════════════════════════════════════╝
 
 
